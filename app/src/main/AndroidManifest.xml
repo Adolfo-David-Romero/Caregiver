@@ -33,6 +33,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- Registering the BroadcastReceiver -->
+        <receiver android:name=".services.MedicationAlarmReceiver"
+            android:exported="false" />
+        <!-- Registering the BroadcastReceiver -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCGP1r4R5gzEMNt9zBJOPGEd3WRcf1LnGo"/>
