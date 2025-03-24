@@ -48,6 +48,9 @@ coilNetworkOkhttp = "3.0.4"
 mapsUtilsKtx = "5.1.1"
 googleWebrtc = "1.0.32006"
 playServicesLocation = "21.3.0"
+navigationComposeVersion = "2.8.9"
+firebaseCommonKtx = "21.0.0"
+firebaseAuthKtxVersion = "23.2.0"
 
 [libraries]
 androidx-lifecycle-viewmodel-compose = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "lifecycleViewmodelCompose" }
@@ -100,6 +103,9 @@ coil-compose = { group = "io.coil-kt.coil3", name = "coil-compose", version.ref 
 coil-network-okhttp = { group = "io.coil-kt.coil3", name = "coil-network-okhttp", version.ref = "coilNetworkOkhttp" }
 maps-utils-ktx = { group = "com.google.maps.android", name = "maps-utils-ktx", version.ref = "mapsUtilsKtx" }
 play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
+navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationComposeVersion" }
+firebase-common-ktx = { group = "com.google.firebase", name = "firebase-common-ktx", version.ref = "firebaseCommonKtx" }
+google-firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx", version.ref = "firebaseAuthKtxVersion" }
 #google-webrtc = { group = "org.webrtc", name = "google-webrtc", version.ref = "googleWebrtc" }
 
 [plugins]
