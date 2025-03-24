@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "651005150901",
+    "project_id": "generator-project-94d12",
+    "storage_bucket": "generator-project-94d12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651005150901:android:1c8d4ded23ea4ced70e0fc",
+        "android_client_info": {
+          "package_name": "sheridan.adolfo_david_romero.prototype_device"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MjKNgQIqdTUuGTbcZNli00a66r8CSIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651005150901:android:766a23a17a024fa770e0fc",
+        "android_client_info": {
+          "package_name": "sheridan.romeroad.care_receiver_prototype_device"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MjKNgQIqdTUuGTbcZNli00a66r8CSIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651005150901:android:d99ad8091d6ae96f70e0fc",
+        "android_client_info": {
+          "package_name": "sheridan.romeroad.caregiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MjKNgQIqdTUuGTbcZNli00a66r8CSIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651005150901:android:819fa8fc4bd115a270e0fc",
+        "android_client_info": {
+          "package_name": "sheridan.romeroad.usersideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MjKNgQIqdTUuGTbcZNli00a66r8CSIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
